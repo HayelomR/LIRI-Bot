@@ -150,9 +150,7 @@ function doThis(){
        if (data[0] == "spotify-this-song") {
         spotifyThis(data[1]);
       }
-      //if multi-word search term, add.
-        for(i=2; i<data.length; i++){
-        };
+ 
 
       if (data[1] == "movie-this") {
         movieSearch(data[1]);
