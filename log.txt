@@ -134,3 +134,83 @@
  Actors: Christopher Guard, William Squire, Michael Scholes, John Hurt
  Rotten Tomato rating is: 50%n Rotten Tomatoes URL: undefined
 ============================================
+ my-tweets: You can put wings on a pig, but you don't make it an eagle.
+ This tweet was created: Sun Jul 16 18:00:05 +0000 2017
+ number of retweets 0
+============================================
+ my-tweets: The weak can never forgive. Forgiveness is the attribute of the strong. #forgivness
+ This tweet was created: Sun Jul 16 17:59:12 +0000 2017
+ number of retweets 0
+============================================
+ my-tweets: Spread love everywhere you go. Let no one ever come to you without leaving happier.
+ This tweet was created: Sun Jul 16 17:58:27 +0000 2017
+ number of retweets 0
+============================================
+ my-tweets: If you judge people, you have no time to love them.
+ This tweet was created: Sun Jul 16 17:58:03 +0000 2017
+ number of retweets 0
+============================================
+ my-tweets: The land of the free.#free
+ This tweet was created: Sun Jul 16 17:57:13 +0000 2017
+ number of retweets 0
+============================================
+ my-tweets: learning for a better.
+ This tweet was created: Sun Jul 16 17:56:48 +0000 2017
+ number of retweets 0
+============================================
+ my-tweets: Freedom doesn't come free.
+ This tweet was created: Sun Jul 16 17:56:22 +0000 2017
+ number of retweets 0
+============================================
+ my-tweets: Dont't wait for others to make a change. you are the change. we are the change who are waiting for.#barack obama
+ This tweet was created: Sun Jul 16 17:55:36 +0000 2017
+ number of retweets 0
+============================================
+ my-tweets: Carmel macchiato.#for every one
+ This tweet was created: Sun Jul 16 17:53:57 +0000 2017
+ number of retweets 0
+============================================
+ my-tweets: Love being Ethiopian.#love
+ This tweet was created: Sun Jul 16 17:53:09 +0000 2017
+ number of retweets 0
+============================================
+ my-tweets: Treat people the way you want to be treated.# karma is a bitch
+ This tweet was created: Sun Jul 16 17:52:12 +0000 2017
+ number of retweets 0
+============================================
+ my-tweets: Be the change you wish to see in the world.#be the on
+ This tweet was created: Sun Jul 16 17:51:08 +0000 2017
+ number of retweets 0
+============================================
+ my-tweets: love coding. # fun with coding
+ This tweet was created: Sun Jul 16 17:50:30 +0000 2017
+ number of retweets 0
+============================================
+ my-tweets: hello world.#peace
+ This tweet was created: Sun Jul 16 17:50:07 +0000 2017
+ number of retweets 0
+============================================
+ my-tweets: tweeting tweets.#tweets
+ This tweet was created: Sun Jul 16 17:49:42 +0000 2017
+ number of retweets 0
+============================================
+ my-tweets: hello practice.#love practice
+ This tweet was created: Sun Jul 16 17:49:11 +0000 2017
+ number of retweets 0
+============================================
+ my-tweets: setting this for a project.#class
+ This tweet was created: Sat Jul 15 04:36:32 +0000 2017
+ number of retweets 0
+============================================
+ my-tweets: tweet from my tweeter. #tweeter
+ This tweet was created: Sat Jul 15 01:17:49 +0000 2017
+ number of retweets 0
+============================================
+ my-tweets: this my second tweet. #I am loving it.
+ This tweet was created: Sat Jul 15 01:17:13 +0000 2017
+ number of retweets 0
+============================================
+ my-tweets: Just setting up my Twitter. #myfirstTweet
+ This tweet was created: Sat Jul 15 01:16:06 +0000 2017
+ number of retweets 0
+============================================
